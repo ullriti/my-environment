@@ -1,0 +1,7 @@
+[user]
+	name = Tilo Ullrich
+	email = dev@tilo-ullrich.de 
+	username = tiullric
+[core]
+	editor = vim
+	excludesfile = ~/.gitignore
