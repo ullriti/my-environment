@@ -31,3 +31,7 @@ alias mv='mv -i'
 
 alias gac='git add -A && git commit -m $1'
 alias upgrade='sudo apt update && sudo apt upgrade'
+
+alias dodo='docker-compose down'
+alias dcup='docker-compose up -d'
+alias dcpull='docker-compose pull'
